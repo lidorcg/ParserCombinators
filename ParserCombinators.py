@@ -1,5 +1,4 @@
 # Parser Combinator
-__author__ = 'LidorCG'
 
 import re
 
